@@ -17,3 +17,6 @@ organized? How would branches help?
 	Sometimes we want our projects to go in different directions.  In this case
 	Git will keep track of the different directions we go allowing us to edit
 	files in two different ways.
+
+How do the diagrams help you visualize the branch structure?
+	It's like a tree!

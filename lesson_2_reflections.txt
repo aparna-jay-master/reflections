@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 	It creates a hidden folder that stores the repository of changes.  We need
 	to tell Git that we want to track these changes.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+	The staging area is where git knows we are working on these files.  It can
+	allow us to tell git to watch these files.

@@ -5,3 +5,8 @@ Why might you want to always pull changes manually rather than having Git automa
 stay up-to-date with your remote repository?
 	You might not want every change/update made public for whatever reason.  You may only
 	want to push things that are in a cleaner version.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Forks are a copy of someone's GitHub repo.
+	Clones are copies of a GitHub repo on your local machine.
+	Branches are versions of your repo that differ from the Master.

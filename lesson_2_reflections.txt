@@ -20,3 +20,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 	It's like a tree!
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+	It merges the 2 files so that you can take in changes from both.  It merges
+	with the main branch so that's why.

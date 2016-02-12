@@ -25,3 +25,7 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 	It merges the 2 files so that you can take in changes from both.  It merges
 	with the main branch so that's why.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	automatic is easy, esp for 1,000s of lines of code.  Going through every change
+	would be tedious.  But automatic increases mistakes and bugs.
